@@ -1,5 +1,0 @@
-Workflow:
-  when:
-    path:
-      - ^.*Volume?.*$
-  area: SRP Workflow

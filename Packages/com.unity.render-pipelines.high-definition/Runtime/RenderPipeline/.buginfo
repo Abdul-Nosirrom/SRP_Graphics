@@ -1,5 +1,0 @@
-Workflow:
-  when:
-    path:
-      - ^.*GlobalSettings?.*$
-  area: SRP Workflow
